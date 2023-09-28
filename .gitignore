@@ -1,0 +1,10 @@
+# Files specified here will not be uploaded to github
+
+# dont upload local pycache
+*__pycache__/
+
+# dont upload ulis huge mathematica nb
+*.nb
+
+# keep images local
+*.png
